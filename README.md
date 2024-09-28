@@ -4,4 +4,4 @@ Gestão da Qualidade
 # Pastas por tópicos:
 
 ## Gráficos de Controle
-- [Subdiretório](aula_pratica_1_cibele_russo_24)
+- [Aula Prática 1 - Cibele Russo - 24](aula_pratica_1_cibele_russo_24)
